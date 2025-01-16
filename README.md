@@ -13,11 +13,13 @@
 I'm a passionate Front-End Developer with over 15 years of experience crafting seamless user experiences and dynamic web applications. My journey in web development has been fueled by a love for clean code and elegant designs.
 
 🔧 Skills & Tools
+
 Expert in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js.
 Proficient in responsive design, cross-browser compatibility, and performance optimization.
 Skilled in collaborative development, using tools like Git, Webpack, and Node.js.
 
 💡 What Drives Me
+
 I thrive on solving complex problems and turning ideas into interactive, user-friendly interfaces. Whether building from scratch or enhancing existing systems, I aim to deliver intuitive solutions that make a difference.
 
 # 💻 Tech Stack:
