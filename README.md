@@ -1,13 +1,3 @@
-### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=clyde-hack&icon=0&color=0)](https://visitcount.itsvg.in)
-
-- 🔭 I’m currently working on **MERN stack projects**
-- 📫 How to reach me: **clyde1976@gmail.com**
-- 😄 Pronouns: **He/Him**
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clydehack/) 
-
 ## About Me
 👋 Hello!
 I'm a passionate Front-End Developer with over 15 years of experience crafting seamless user experiences and dynamic web applications. My journey in web development has been fueled by a love for clean code and elegant designs.
@@ -21,6 +11,9 @@ Skilled in collaborative development, using tools like Git, Webpack, and Node.js
 💡 What Drives Me
 
 I thrive on solving complex problems and turning ideas into interactive, user-friendly interfaces. Whether building from scratch or enhancing existing systems, I aim to deliver intuitive solutions that make a difference.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clydehack/) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -45,8 +38,6 @@ I thrive on solving complex problems and turning ideas into interactive, user-fr
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=clyde-hack&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=clyde-hack&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clyde-hack&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
